@@ -1,7 +1,13 @@
-### Hi there 👋
-🌱 I’m currently learning SwiftUI, Web Development (Python, Flask) and Cross Platfrom (Flutter)
-👨‍💻 All of my projects are available at https://www.linkedin.com/in/gaurav02712/
-📫 How to reach me gaurav02712@gmail.com
+<h1>Hi 👋, I'm Gaurav Pandey, an Lead iOS Engineer </h1>
+
+<br>
+
+🌱 I’m currently learning **SwiftUI, Web Development (Python, Flask) and Cross Platfrom (Flutter)**
+
+👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gaurav02712/](https://www.linkedin.com/in/gaurav02712/)
+
+📫 How to reach me **gaurav02712@gmail.com**
+
 
 
 <!--
