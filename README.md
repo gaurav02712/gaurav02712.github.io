@@ -23,11 +23,11 @@ I’m **Gaurav Pandey**, a Senior iOS Developer with **10+ years of experience**
 
 ---
 
-## 🛠️ Skills & Professional Strengths
+## 🛠️ Skills & Professional Strengths  
 
 - **Languages:** Swift, Objective-C  
-- **UI Frameworks:** UIKit, SwiftUI
-- **Persistence:** CoreData, SwiftData  
+- **UI Frameworks:** UIKit, SwiftUI (Learning Phase)  
+- **Persistence:** CoreData  
 - **Architecture Patterns:** MVC, MVVM, MVVM-C  
 - **BLE Integration:** CoreBluetooth (Real project exposure, expanding skills)  
 - **Tools & Automation:** Xcode, CocoaPods, SPM, SwiftLint, Fastlane  
@@ -37,7 +37,7 @@ I’m **Gaurav Pandey**, a Senior iOS Developer with **10+ years of experience**
 
 ---
 
-## 💼 Professional Experience
+## 💼 Professional Experience  
 
 ### Consultant Engineering – GlobalLogic  
 **April 2023 – May 2024**  
@@ -80,19 +80,21 @@ I’m **Gaurav Pandey**, a Senior iOS Developer with **10+ years of experience**
 
 ## 📲 Selected Apps on the App Store
 
-- [KastlePresence](https://apps.apple.com/in/app/kastlepresence/id1061078659)  
-- [JBG Smith Office](https://apps.apple.com/in/app/jbg-smith-office/id6450704305)  
-- [Unravel: Watch Plan Go](https://apps.apple.com/us/app/unravel-watch-plan-go/id1558162869)  
-- [Docquity](https://apps.apple.com/in/app/docquity/id1048947290)  
-- [HalalTrip](https://itunes.apple.com/app/id680194589)  
-- [HealthTrip](https://apps.apple.com/in/app/health-trip/id1488887969)  
-- [NirogStreet](https://itunes.apple.com/us/app/nirogstreet/id1352321621?ls=1&mt=8)  
-- [Empwin](https://apps.apple.com/in/app/empwin/id1212850196)  
-- [Crownit](https://apps.apple.com/us/app/crown-it/id956797857)
+Below are some key apps I've contributed to, focusing on end-to-end iOS development, modular architecture, and team leadership:
+
+- [KastlePresence](https://apps.apple.com/in/app/kastlepresence/id1061078659) – Access control app for smart offices using BLE presence detection.
+- [JBG Smith Office](https://apps.apple.com/in/app/jbg-smith-office/id6450704305) – Office access management application with BLE and credential features.
+- [Unravel: Watch Plan Go](https://apps.apple.com/us/app/unravel-watch-plan-go/id1558162869) – Travel and shopping platform offering shopatainment experience.
+- [Docquity](https://apps.apple.com/in/app/docquity/id1048947290) – Community networking app for healthcare professionals.
+- [HalalTrip](https://itunes.apple.com/app/id680194589) – Travel and booking app tailored for halal-conscious travelers.
+- [HealthTrip](https://apps.apple.com/in/app/health-trip/id1488887969) – Medical travel platform connecting patients with healthcare services.
+- [NirogStreet](https://itunes.apple.com/us/app/nirogstreet/id1352321621?ls=1&mt=8) – Ayurveda-focused healthcare app for practitioners and patients.
+- [Empwin](https://apps.apple.com/in/app/empwin/id1212850196) – Corporate engagement platform for employee activities and rewards.
+- [Crownit](https://apps.apple.com/us/app/crown-it/id956797857) – Cashback and rewards app offering deals, surveys, and contests.
 
 ---
 
-## 🎯 Beyond Code
+## 🌟 Beyond Code  
 
 - **Gaming:**  
   _I enjoy games that require focus and adaptability such as_ **Far Cry 4** _and_ **Battlefield 4**.  
@@ -106,10 +108,10 @@ I’m **Gaurav Pandey**, a Senior iOS Developer with **10+ years of experience**
 
 ---
 
-## 📫 Contact
+## 📢 Contact  
 
 - **LinkedIn:** [https://www.linkedin.com/in/gauravpandey](https://www.linkedin.com/in/gauravpandey)  
-- **Email:** gaurav02712@gmail.com  
+- **Email:** [gauravp02712@gmail.com](mailto:gauravp02712@gmail.com)  
 - **Stack Overflow:** [https://stackoverflow.com/users/3647325/gaurav-pandey?tab=profile](https://stackoverflow.com/users/3647325/gaurav-pandey?tab=profile)
 
 ---
