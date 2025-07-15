@@ -93,10 +93,8 @@ Below are some key apps I've contributed to, focusing on end-to-end iOS developm
 
 - **Gaming:**  
   I enjoy playing FPS games (last played Far Cry 4 and Battlefield 4). This entertainment helps sharpen strategic thinking, quick decision-making, and problem-solving skills that translate well into software development and leadership roles.
-
 - **Chess:**  
   Regular player. Helps me stay focused and structured in problem-solving without chasing rankings.
-
 - **Travel & Photography:**  
   Exploring new places keeps me creatively refreshed.
 
