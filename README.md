@@ -28,8 +28,8 @@ I’m **Gaurav Pandey**, a Senior iOS Developer with **10+ years of experience**
 ## 🛠️ Skills & Professional Strengths  
 
 - **Languages:** Swift, Objective-C  
-- **UI Frameworks:** UIKit, SwiftUI (Learning Phase)  
-- **Persistence:** CoreData  
+- **UI Frameworks:** UIKit, SwiftUI 
+- **Persistence:** CoreData, SwiftData
 - **Architecture Patterns:** MVC, MVVM, MVVM-C  
 - **BLE Integration:** CoreBluetooth (Real project exposure, expanding skills)  
 - **Tools & Automation:** Xcode, CocoaPods, SPM, SwiftLint, Fastlane  
