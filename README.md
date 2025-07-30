@@ -1,12 +1,12 @@
 <table>
   <tr>
     <td width="250">
-      <a href="https://gaurav02712.github.io/portfolio/">
+      <a href="https://gaurav02712.github.io">
         <img src="assets/images/ProfilePic.jpg" alt="Gaurav Pandey" width="250" style="border-radius: 50%">
       </a>
     </td>
     <td>
-      <h1><a href="https://gaurav02712.github.io/portfolio/">Gaurav Pandey</a> – Senior iOS Developer</h1>
+      <h1><a href="https://gaurav02712.github.io">Gaurav Pandey</a> – Senior iOS Developer</h1>
       <p>Building production-ready iOS apps with focus on architecture, leadership, and real-world usability.</p>
     </td>
   </tr>
