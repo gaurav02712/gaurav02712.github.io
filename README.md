@@ -104,7 +104,7 @@ Below are some key apps I've contributed to, focusing on end-to-end iOS developm
 
 ## 📢 Contact  
 
-- **Portfolio:** [https://gaurav02712.github.io/portfolio/](https://gaurav02712.github.io/portfolio/)  
+- **Portfolio:** [https://gaurav02712.github.io/](https://gaurav02712.github.io/)
 - **LinkedIn:** [https://www.linkedin.com/in/gauravpandey](https://www.linkedin.com/in/gauravpandey)  
 - **Email:** [gauravp02712@gmail.com](mailto:gauravp02712@gmail.com)  
 - **Stack Overflow:** [https://stackoverflow.com/users/3647325/gaurav-pandey?tab=profile](https://stackoverflow.com/users/3647325/gaurav-pandey?tab=profile)
